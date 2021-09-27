@@ -78,6 +78,7 @@ label, input {
 
 input {
   font-size: medium;
+  font-family: inherit;
   height: 2.5em;
   margin-top: 0.2em;
   padding: 5px 10px;
