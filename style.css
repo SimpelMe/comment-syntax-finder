@@ -12,6 +12,10 @@ body {
   body {
     font-size: 3vmin;
   }
+
+  table {
+    width: inherit !important;
+  }
 }
 
 /* iPhone landscape only */
@@ -19,12 +23,20 @@ body {
   body {
     font-size: 4vmin;
   }
+
+  table {
+    width: inherit !important;
+  }
 }
 
 /* iPhone portait only */
 @media (max-width: 320px) {
   body {
     font-size: 4vmin;
+  }
+
+  table {
+    width: inherit !important;
   }
 }
 
