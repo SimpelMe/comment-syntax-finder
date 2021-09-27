@@ -60,11 +60,11 @@ main {
     display: flex;
 }
 
-label, input, button, select {
+label, input {
   display: block;
 }
 
-button, input, select {
+input {
   font-size: medium;
   height: 2.5em;
   margin-top: 0.2em;
@@ -77,14 +77,14 @@ button, input, select {
 }
 
 /* makes input listening to height so input and select have the same height */
-input, select {
+input {
   color: #333;
   border-color: white;
   background-color: white;
   box-sizing: border-box;
 }
 
-input[type="text"], select {
+input[type="text"] {
   width: 70ch;
   max-width: calc(100vw - 8vmin);
 }
