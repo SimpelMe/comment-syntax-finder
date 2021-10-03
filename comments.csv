@@ -52,6 +52,7 @@ GAMS,*
 GNU-bc,#
 GNU-sed,#
 Go,//
+Groovy,//
 Haskell,--
 Icon,#
 Inform,!
@@ -124,6 +125,7 @@ TUTOR,$$
 TUTOR,*
 Unix shell,#
 VBScript,'
+Velocity,##
 VHDL,--
 Vimscript,&quot;
 Visual Basic,'
@@ -172,6 +174,7 @@ F#,(* ~ *)
 Forth,( ~ )
 GNU-bc,/* ~ */
 Go,/* ~ */
+Groovy;/* ~ */
 Handlebars,{{! ~ }}
 Handlebars,{{!-- ~ --}}
 Haskell,{- ~ -}
@@ -251,6 +254,7 @@ Standard ML,(* ~ *)
 Swift,/* ~ */
 Tcl,<# ~ #>
 Twig,{# ~ #}
+Velocity,#* ~ *#
 Visual Prolog,/* ~ */
 Wolfram Language,(* ~ *)
 XML,<!-- ~ -->
