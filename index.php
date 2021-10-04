@@ -25,7 +25,7 @@
     <main>
       <div>
         <label for="searchinput">Search language or comment syntax:</label>
-        <input type="text" id="searchinput" onkeyup="searchSyntax()" title="Type in a scripting language or comments syntax" placeholder="search string …" autofocus>
+        <input type="search" id="searchinput" onkeyup="searchSyntax()" onsearch="searchSyntax()" title="Type in a scripting language or comments syntax" placeholder="search string …" autofocus>
         <table id="resulttable">
           <thead>
             <tr>

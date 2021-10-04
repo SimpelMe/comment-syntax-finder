@@ -97,7 +97,7 @@ input {
   box-sizing: border-box;
 }
 
-input[type="text"] {
+input[type="search"] {
   width: 70ch;
   max-width: calc(100vw - 8vmin);
 }
