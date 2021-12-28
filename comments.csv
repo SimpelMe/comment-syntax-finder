@@ -52,6 +52,8 @@ GAMS,*
 GNU-bc,#
 GNU-sed,#
 Go,//
+Groff,\"
+Groff,\#
 Groovy,//
 Haskell,--
 Icon,#
@@ -71,6 +73,8 @@ Logo,;
 Lua,--
 M4,dnl
 Make,#
+Man page,\"
+Man page,\#
 Maple,#
 MATLAB,%
 Mercury,%
