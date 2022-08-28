@@ -635,7 +635,7 @@ Slice,L,//
 Slice,M,/* */
 Slope,L,;
 Smali,L,#
-Small Basic,L,'
+SmallBasic,L,'
 Smalltalk,M,&quot; &quot;
 Smarty,M,(* *)
 SMT,L,;
