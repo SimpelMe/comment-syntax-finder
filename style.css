@@ -134,7 +134,8 @@ tr:last-child {
  border-bottom: none;
 }
 
-td:first-child, th:first-child {
+td:nth-child(even), th:nth-child(even) {
+ border-left: 1px solid white;
  border-right: 1px solid white;
 }
 
@@ -143,8 +144,16 @@ th {
   background-color: #444444;
 }
 
-th, td {
+th:nth-child(1), td:nth-child(1) {
   width: 35ch;
+}
+
+th:nth-child(2), td:nth-child(2) {
+  width: 5ch;
+}
+
+th:nth-child(3), td:nth-child(3) {
+  width: 30ch;
 }
 
 footer {

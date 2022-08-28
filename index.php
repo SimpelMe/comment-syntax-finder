@@ -14,8 +14,9 @@
         <table id="resulttable">
           <thead>
             <tr>
-              <th>programming / scripting language</th>
-              <th>comments syntax (~ represents text)</th>
+              <th title="programming, scripting or markdown language">language</th>
+              <th title="line (L) or multiline (M) comment">type</th>
+              <th>comment syntax</th>
             </tr>
           </thead>
           <tbody>
@@ -46,17 +47,17 @@
   </body>
   <script>
   function searchSyntax() {
-    var input, filter, table, tr, tdOne, tdTwo, i, txtValue;
+    var input, filter, table, tr, tdOne, tdThree, i, txtValue;
     input = document.getElementById("searchinput");
     filter = input.value.toUpperCase();
     table = document.getElementById("resulttable");
     tr = table.getElementsByTagName("tr");
     for (i = 0; i < tr.length; i++) {
       tdOne = tr[i].getElementsByTagName("td")[0];
-      tdTwo = tr[i].getElementsByTagName("td")[1];
-      if (tdOne || tdTwo) {
+      tdThree = tr[i].getElementsByTagName("td")[2];
+      if (tdOne || tdThree) {
         txtValue = tdOne.innerText;
-        txtValue += tdTwo.innerText;
+        txtValue += tdThree.innerText;
         if (txtValue.toUpperCase().indexOf(filter) > -1) {
           tr[i].style.display = "";
         } else {

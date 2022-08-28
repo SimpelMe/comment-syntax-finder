@@ -1,266 +1,266 @@
-ABAP,&quot;
-ABAP,*
-ActionScript,//
-Ada,--
-APL,⍝
-AppleScript,--
-Assembler S/360,*
-Assembler,;
-AutoHotkey,;
-AutoIt,;
-AWK,#
-Bash,#
-Basic Plus,!
-BASIC,REM
-Batch files,::
-Batch files,REM
-BCPL,//
-Bourne shell,#
-C (C99),//
-C shell,#
-C#,//
-C++,//
-Cecil,--
-Cisco IOS,!
-Clojure,;
-cmd.exe,::
-COBOL 2002,*>
-COBOL 90,*>
-COBOL I to COBOL 85,*
-Cobra,#
-CoffeeScript,#
-COMMAND.COM,::
-Common Lisp,;
-Curl,||
-D,//
-DCL,$!
-Dylan,//
-E,#
-Eiffel,--
-Elixir,#
-Emacs Lisp,;
-Erlang,%
-Euphoria,--
-F#,//
-Fish shell,#
-Forth,\
-Fortran I to Fortran 77,C
-Fortran IV to Fortran 77,*
-Fortran,!
-Gambas,'
-GAMS,*
-GNU-bc,#
-GNU-sed,#
-Go,//
-Groff,\"
-Groff,\#
-Groovy,//
-Haskell,--
-Icon,#
-Inform,!
-INI-Datei,;
-Io,#
-Io,//
-J,NB.
-Java,//
-JavaScript,//
-JQuery,//
-Julia,#
-Kotlin,//
-LaTeX,%
-Lisp,;
-Logo,;
-Lua,--
-M4,dnl
-Make,#
-Man page,\"
-Man page,\#
-Maple,#
-MATLAB,%
-Mercury,%
-merd,#
-Monkey,'
-MUMPS,;
-Nim,#
-Object Pascal (Delphi),//
-Objective-C,//
-Occam,--
-Oz,%
-PAW,*
-Perl,#
-Perl6,#
-PHP,#
-PHP,//
-Pick Basic,!
-Pick Basic,*
-Pike,//
-PILOT,R:
-Pliant,#
-PostScript,%
-PowerFlex,//
-PowerShell,#
-Prolog,%
-PureScript,--
-Python,#
-R,#
-Raku,#
-Rebol,;
-Red,;
-Ruby,#
-Rust,//
-S-Lang,%
-SASS,//
-Sather,--
-Scala,//
-Scheme,;
-Scilab,//
-Seed7,#
-SGML,--
-SIMULA,--
-Small Basic,'
-SPARK,--
-SQL,--
-Swift,//
-Tcl,#
-TeX,%
-Texinfo,@c
-Texinfo,@comment
-TUTOR,$$
-TUTOR,*
-Unix shell,#
-VBScript,'
-Velocity,##
-VHDL,--
-Vimscript,&quot;
-Visual Basic,'
-Visual Prolog,%
-Xojo,'
-Xojo,//
-Xojo,rem
-YAML,#
-YCP,//
-Yorick,//
-ActionScript,/* ~ */
-ALGOL 60,comment ~ ;
-ALGOL 68,# ~ #
-ALGOL 68,co ~ co
-ALGOL 68,comment ~ comment
-ALGOL 68,¢ ~ ¢
-ALGOL 68,£ ~ £
-AppleScript,(* ~ *)
-AutoHotkey,/* ~ */
-AutoIt,#comments-start ~ #comments-end
-AutoIt,#cs ~ #ce
-AWK,<# ~ #>
-B,/* ~ */
-Bash,<# ~ #>
-Beta,(* ~ *)
-Bourne shell,<# ~ #>
-C shell,<# ~ #>
-C#,/* ~ */
-C++,/* ~ */
-C,#if 0 ~ #endif
-C,/* ~ */
-CHILL,/* ~ */
-Clojure,(comment ~ )
-Cobra,/# ~ #/
-CoffeeScript,### ~ ###
-ColdFusion,<!--- ~ --->
-CSS,/* ~ */
-Curl,|# ~ #|
-Curl,|TAG# ~ #TAG|
-D,/* ~ */
-D,/+ ~ +/
-Delphi,(* ~ *)
-Delphi,{ ~ }
-Dylan,/* ~ */
-F#,(* ~ *)
-Forth,( ~ )
-GNU-bc,/* ~ */
-Go,/* ~ */
-Groovy,/* ~ */
-Handlebars,{{! ~ }}
-Handlebars,{{!-- ~ --}}
-Haskell,{- ~ -}
-HTML,<!-- ~ -->
-Io,/* ~ */
-Java,/* ~ */
-JavaScript,/* ~ */
-JQuery,/* ~ */
-JSP,<%-- ~ --%>
-Julia,#= ~ =#
-Kotlin,/* ~ */
-Lisp,#| ~ |#
-Lua,--[=[ ~ ]=]
-Lua,--[=…=[ ~ ]=…=]
-Lua,--[[ ~ ]]
-Maple,(* ~ *)
-Maple,<# ~ #>
-Mathematica,(* ~ *)
-MATLAB,%{ ~ %}
-Mercury,/* ~ */
-ML,(* ~ *)
-Modula-2,(* ~ *)
-Modula-3,(* ~ *)
-Mustache,{{! ~ }}
-Newspeak,(* ~ *)
-Nim,#[ ~ ]#
-Nunjucks,{# ~ #}
-Oberon,(* ~ *)
-Object Pascal,(* ~ *)
-Object Pascal,{ ~ }
-Objective-C,/* ~ */
-OCaml,(* ~ *)
-Oz,/* ~ */
-Pascal,(* ~ *)
-Pascal,{ ~ }
-Perl,=begin ~ =cut
-Perl,=pod ~ =cut
-Perl6,#[ ~ ]
-Perl6,=pod ~ =cut
-PHP,/* ~ */
-Pike,/* ~ */
-PL/I,/* ~ */
-PLZ/SYS,! ~ !
-PowerShell,<# ~ #>
-Prolog,/* ~ */
-Python,&quot;&quot;&quot; ~ &quot;&quot;&quot;
-Python,''' ~ '''
-R,<# ~ #>
-Racket,#| ~ |#
-Raku,#`( ~ )
-Raku,#`< ~ >
-Raku,#`[ ~ ]
-Raku,#`{ ~ }
-Raku,#`{{ ~ }}
-Rebol,comment [ ~ ]
-Rebol,comment { ~ }
-Red,{ ~ }
-Rexx,/* ~ */
-Ruby,=begin ~ =end
-Rust,/* ~ */
-S-Lang,#<TAG> ~ #</TAG>
-S-Lang,#if !true ~ #endif
-S-Lang,#if false ~ #endif
-S-Lang,#iffalse ~ #endif
-S-Lang,#ifntrue ~ #endif
-S-Lang,#stop ~ EOF
-SAS,/* ~ */
-SASS,/* ~ */
-Scala,/* ~ */
-Scheme,#| ~ |#
-Seed7,(* ~ *)
-SIMULA,comment ~ ;
-Smalltalk,&quot; ~ &quot;
-Smarty,(* ~ *)
-SQL,/* ~ */
-Standard ML,(* ~ *)
-Swift,/* ~ */
-Tcl,<# ~ #>
-Twig,{# ~ #}
-Velocity,#* ~ *#
-Visual Prolog,/* ~ */
-Wolfram Language,(* ~ *)
-XML,<!-- ~ -->
-YCP,/* ~ */
-Yorick,/* ~ */
+ABAP,L,&quot;
+ABAP,L,*
+ActionScript,L,//
+Ada,L,--
+APL,L,⍝
+AppleScript,L,--
+Assembler S/360,L,*
+Assembler,L,;
+AutoHotkey,L,;
+AutoIt,L,;
+AWK,L,#
+Bash,L,#
+Basic Plus,L,!
+BASIC,L,REM
+Batch files,L,::
+Batch files,L,REM
+BCPL,L,//
+Bourne shell,L,#
+C (C99),L,//
+C shell,L,#
+C#,L,//
+C++,L,//
+Cecil,L,--
+Cisco IOS,L,!
+Clojure,L,;
+cmd.exe,L,::
+COBOL 2002,L,*>
+COBOL 90,L,*>
+COBOL I to COBOL 85,L,*
+Cobra,L,#
+CoffeeScript,L,#
+COMMAND.COM,L,::
+Common Lisp,L,;
+Curl,L,||
+D,L,//
+DCL,L,$!
+Dylan,L,//
+E,L,#
+Eiffel,L,--
+Elixir,L,#
+Emacs Lisp,L,;
+Erlang,L,%
+Euphoria,L,--
+F#,L,//
+Fish shell,L,#
+Forth,L,\
+Fortran I to Fortran 77,L,C
+Fortran IV to Fortran 77,L,*
+Fortran,L,!
+Gambas,L,'
+GAMS,L,*
+GNU-bc,L,#
+GNU-sed,L,#
+Go,L,//
+Groff,L,\"
+Groff,L,\#
+Groovy,L,//
+Haskell,L,--
+Icon,L,#
+Inform,L,!
+INI-Datei,L,;
+Io,L,#
+Io,L,//
+J,L,NB.
+Java,L,//
+JavaScript,L,//
+JQuery,L,//
+Julia,L,#
+Kotlin,L,//
+LaTeX,L,%
+Lisp,L,;
+Logo,L,;
+Lua,L,--
+M4,L,dnl
+Make,L,#
+Man page,L,\"
+Man page,L,\#
+Maple,L,#
+MATLAB,L,%
+Mercury,L,%
+merd,L,#
+Monkey,L,'
+MUMPS,L,;
+Nim,L,#
+Object Pascal (Delphi),L,//
+Objective-C,L,//
+Occam,L,--
+Oz,L,%
+PAW,L,*
+Perl,L,#
+Perl6,L,#
+PHP,L,#
+PHP,L,//
+Pick Basic,L,!
+Pick Basic,L,*
+Pike,L,//
+PILOT,L,R:
+Pliant,L,#
+PostScript,L,%
+PowerFlex,L,//
+PowerShell,L,#
+Prolog,L,%
+PureScript,L,--
+Python,L,#
+R,L,#
+Raku,L,#
+Rebol,L,;
+Red,L,;
+Ruby,L,#
+Rust,L,//
+S-Lang,L,%
+SASS,L,//
+Sather,L,--
+Scala,L,//
+Scheme,L,;
+Scilab,L,//
+Seed7,L,#
+SGML,L,--
+SIMULA,L,--
+Small Basic,L,'
+SPARK,L,--
+SQL,L,--
+Swift,L,//
+Tcl,L,#
+TeX,L,%
+Texinfo,L,@c
+Texinfo,L,@comment
+TUTOR,L,$$
+TUTOR,L,*
+Unix shell,L,#
+VBScript,L,'
+Velocity,L,##
+VHDL,L,--
+Vimscript,L,&quot;
+Visual Basic,L,'
+Visual Prolog,L,%
+Xojo,L,'
+Xojo,L,//
+Xojo,L,rem
+YAML,L,#
+YCP,L,//
+Yorick,L,//
+ActionScript,M,/* ~ */
+ALGOL 60,M,comment ~ ;
+ALGOL 68,M,# ~ #
+ALGOL 68,M,co ~ co
+ALGOL 68,M,comment ~ comment
+ALGOL 68,M,¢ ~ ¢
+ALGOL 68,M,£ ~ £
+AppleScript,M,(* ~ *)
+AutoHotkey,M,/* ~ */
+AutoIt,M,#comments-start ~ #comments-end
+AutoIt,M,#cs ~ #ce
+AWK,M,<# ~ #>
+B,M,/* ~ */
+Bash,M,<# ~ #>
+Beta,M,(* ~ *)
+Bourne shell,M,<# ~ #>
+C shell,M,<# ~ #>
+C#,M,/* ~ */
+C++,M,/* ~ */
+C,M,#if 0 ~ #endif
+C,M,/* ~ */
+CHILL,M,/* ~ */
+Clojure,M,(comment ~ )
+Cobra,M,/# ~ #/
+CoffeeScript,M,### ~ ###
+ColdFusion,M,<!--- ~ --->
+CSS,M,/* ~ */
+Curl,M,|# ~ #|
+Curl,M,|TAG# ~ #TAG|
+D,M,/* ~ */
+D,M,/+ ~ +/
+Delphi,M,(* ~ *)
+Delphi,M,{ ~ }
+Dylan,M,/* ~ */
+F#,M,(* ~ *)
+Forth,M,( ~ )
+GNU-bc,M,/* ~ */
+Go,M,/* ~ */
+Groovy,M,/* ~ */
+Handlebars,M,{{! ~ }}
+Handlebars,M,{{!-- ~ --}}
+Haskell,M,{- ~ -}
+HTML,M,<!-- ~ -->
+Io,M,/* ~ */
+Java,M,/* ~ */
+JavaScript,M,/* ~ */
+JQuery,M,/* ~ */
+JSP,M,<%-- ~ --%>
+Julia,M,#= ~ =#
+Kotlin,M,/* ~ */
+Lisp,M,#| ~ |#
+Lua,M,--[=[ ~ ]=]
+Lua,M,--[=…=[ ~ ]=…=]
+Lua,M,--[[ ~ ]]
+Maple,M,(* ~ *)
+Maple,M,<# ~ #>
+Mathematica,M,(* ~ *)
+MATLAB,M,%{ ~ %}
+Mercury,M,/* ~ */
+ML,M,(* ~ *)
+Modula-2,M,(* ~ *)
+Modula-3,M,(* ~ *)
+Mustache,M,{{! ~ }}
+Newspeak,M,(* ~ *)
+Nim,M,#[ ~ ]#
+Nunjucks,M,{# ~ #}
+Oberon,M,(* ~ *)
+Object Pascal,M,(* ~ *)
+Object Pascal,M,{ ~ }
+Objective-C,M,/* ~ */
+OCaml,M,(* ~ *)
+Oz,M,/* ~ */
+Pascal,M,(* ~ *)
+Pascal,M,{ ~ }
+Perl,M,=begin ~ =cut
+Perl,M,=pod ~ =cut
+Perl6,M,#[ ~ ]
+Perl6,M,=pod ~ =cut
+PHP,M,/* ~ */
+Pike,M,/* ~ */
+PL/I,M,/* ~ */
+PLZ/SYS,M,! ~ !
+PowerShell,M,<# ~ #>
+Prolog,M,/* ~ */
+Python,M,&quot;&quot;&quot; ~ &quot;&quot;&quot;
+Python,M,''' ~ '''
+R,M,<# ~ #>
+Racket,M,#| ~ |#
+Raku,M,#`( ~ )
+Raku,M,#`< ~ >
+Raku,M,#`[ ~ ]
+Raku,M,#`{ ~ }
+Raku,M,#`{{ ~ }}
+Rebol,M,comment [ ~ ]
+Rebol,M,comment { ~ }
+Red,M,{ ~ }
+Rexx,M,/* ~ */
+Ruby,M,=begin ~ =end
+Rust,M,/* ~ */
+S-Lang,M,#<TAG> ~ #</TAG>
+S-Lang,M,#if !true ~ #endif
+S-Lang,M,#if false ~ #endif
+S-Lang,M,#iffalse ~ #endif
+S-Lang,M,#ifntrue ~ #endif
+S-Lang,M,#stop ~ EOF
+SAS,M,/* ~ */
+SASS,M,/* ~ */
+Scala,M,/* ~ */
+Scheme,M,#| ~ |#
+Seed7,M,(* ~ *)
+SIMULA,M,comment ~ ;
+Smalltalk,M,&quot; ~ &quot;
+Smarty,M,(* ~ *)
+SQL,M,/* ~ */
+Standard ML,M,(* ~ *)
+Swift,M,/* ~ */
+Tcl,M,<# ~ #>
+Twig,M,{# ~ #}
+Velocity,M,#* ~ *#
+Visual Prolog,M,/* ~ */
+Wolfram Language,M,(* ~ *)
+XML,M,<!-- ~ -->
+YCP,M,/* ~ */
+Yorick,M,/* ~ */
