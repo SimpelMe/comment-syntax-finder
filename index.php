@@ -42,6 +42,8 @@
       <ul>
         <li class="source"><a href="https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)" target="_blank">en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)</a></li>
         <li class="source"><a href="http://rigaux.org/language-study/syntax-across-languages/Vrs.html" target="_blank">rigaux.org/language-study/syntax-across-languages/Vrs.html</a></li>
+        <li class="source"><a href="https://pldb.com/languages/line-comments-feature.html" target="_blank">pldb.com/languages/line-comments-feature.html</a></li>
+        <li class="source"><a href="https://pldb.com/languages/multiline-comments-feature.html" target="_blank">pldb.com/languages/multiline-comments-feature.html</a></li>
       </ul>
     </footer>
   </body>

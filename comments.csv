@@ -1,266 +1,777 @@
-ABAP,L,&quot;
 ABAP,L,*
+ABAP,L,&quot;
+Action Code Script,L,//
+Action!,L,;
 ActionScript,L,//
+ActionScript,M,/* */
+ActiveVFP,L,*
 Ada,L,--
+Adventure Game Studio Script,L,//
+AGC,L,#
+Agda,L,--
+Aldor,L,--
+ALGOL 60,M,comment ;
+ALGOL 68,M,# #
+ALGOL 68,M,¢ ¢
+ALGOL 68,M,£ £
+ALGOL 68,M,co co
+ALGOL 68,M,comment comment
+Alloy,L,//
+Alloy,M,/* */
+Alpine Abuild,L,#
+Amazon Redshift,L,--
+Amazon Redshift,M,/* */
+AMPL,L,#
+Angelscript,L,//
+Angelscript,M,/* */
+ANTLR,L,//
+ANTLR,M,/* */
+Apex,L,//
+Apex,M,/* */
+API Blueprint,L,#
 APL,L,⍝
 AppleScript,L,--
+AppleScript,M,(* *)
+Arden syntax,M,/* */
+ARexx,M,/* */
+Argdown,L,//
+Argdown,M,<!-- -->
+ArkScript,L,#
+ARM,L,;
+AspectJ,L,//
+AspectJ,M,/* */
 Assembler S/360,L,*
 Assembler,L,;
+atomese,L,;
+ATS,L,//
+ATS,M,(* *)
+Augmented Backus-Naur Form,L,;
 AutoHotkey,L,;
+AutoHotkey,M,/* */
 AutoIt,L,;
-AWK,L,#
+AutoIt,M,#comments-start #comments-end
+AutoIt,M,#cs #ce
+awk,L,#
+awk,M,<# #>
+B,M,/* */
+Ballerina,L,//
 Bash,L,#
+Bash,M,<# #>
 Basic Plus,L,!
 BASIC,L,REM
-Batch files,L,::
-Batch files,L,REM
+Batchfile,L,::
+Batchfile,L,REM
 BCPL,L,//
+beads-lang,L,//
+Bel,L,;
+BETA,L,//
+Beta,M,(* *)
+Bicep,L,//
+Bicep,M,/* */
+bioscript,M,/* */
+Bison,L,//
+Bison,M,/* */
+BitBake,L,#
+Bla,L,--
+BLISS,L,!
+blockml,M,/* */
+Bluespec,M,(* *)
+blz,L,#
+Boo,L,#
+Boron,L,;
+Boron,M,/* */
 Bourne shell,L,#
+Bourne shell,M,<# #>
+Brightscript,L,'
+BuddyScript,L,#
+c3,L,//
 C (C99),L,//
 C shell,L,#
+C shell,M,<# #>
+C,L,//
+C,M,/* */
+C,M,#if 0 #endif
 C#,L,//
+C#,M,/* */
 C++,L,//
+C++,M,/* */
+ca65 Assembly,L,;
+Caché Basic,L,'
+carp,L,;
+carth,L,;
+CartoCSS,L,//
+CartoCSS,M,/* */
 Cecil,L,--
+Cell,L,//
+Ceylon,L,//
+Ceylon,M,/* */
+CFScript,L,//
+Cg,L,//
+Ch,L,//
+Chapel,L,//
+Chapel,M,/* */
+Charity,L,%
+CHILL,M,/* */
+CIL,L,//
+CIR,L,//
 Cisco IOS,L,!
+Claro,L,#
+Classroom Object Oriented Language,L,--
+Classroom Object Oriented Language,M,(* *)
+Clean,L,//
+Click,L,//
+Clipper,L,//
+CLIPS,L,;
+CLIST,M,/* */
 Clojure,L,;
+Clojure,M,(comment )
+CLOS,L,;
+Closure Templates,M,/* */
 cmd.exe,L,::
-COBOL 2002,L,*>
 COBOL 90,L,*>
+COBOL 2002,L,*>
 COBOL I to COBOL 85,L,*
+COBOL,L,*>
 Cobra,L,#
+Cobra,M,/# #/
 CoffeeScript,L,#
+CoffeeScript,M,### ###
+ColdFusion,M,<!--- --->
 COMMAND.COM,L,::
 Common Lisp,L,;
+COMPONENT PASCAL,M,(* *)
+Concise Encoding,L,//
+Creative Basic,L,'
+Crystal,L,#
+Csound,L,;
+CSS,M,/* */
+ctalk-lang,L,//
+CUDA,M,/* */
+Cue,L,//
 Curl,L,||
+Curl,M,|# #|
+Curl,M,|TAG# #TAG|
+CWL,L,#
+Cycript,L,//
+Cycript,M,/* */
+Cypher Query Language,L,//
+Cypher Query Language,M,/* */
 D,L,//
+D,M,/* */
+D,M,/+ +/
+Dafny,L,//
+Dart,L,//
+Dart,M,/* */
+Datalog,L,%
+datascript,L,;
+DAX,L,//
+DAX,M,/* */
+Dc,L,#
 DCL,L,$!
+ddfql,L,//
+dedukti,M,(; ;)
+Delphi,L,//
+Delphi,M,(* *)
+Delphi,M,{ }
+Deno,L,//
+dex,L,--
+Dhall,L,--
+dlvm,L,//
+DM,L,//
+DM,M,/* */
+Dockerfile,L,#
+DOT,L,//
+DOT,M,/* */
+dslx,L,//
+DTrace,M,/* */
 Dylan,L,//
+Dylan,M,/* */
 E,L,#
+EBNF,M,(* *)
+eC,L,//
+eC,M,/* */
+ECL,L,//
+ECL,M,/* */
+Eclipse Command Language,L,%
+Eclipse Command Language,M,/* */
+Edje Data Collection,M,/* */
 Eiffel,L,--
 Elixir,L,#
+Elm,L,--
+Elm,M,{- -}
 Emacs Lisp,L,;
+Embedded Crystal,L,#
+epsilon,L,//
 Erlang,L,%
+EuLisp,L,;
 Euphoria,L,--
+Eve,L,//
+Expect,L,#
+Ezhil,L,#
 F#,L,//
+F#,M,(* *)
+Fable,L,//
+Falcon,L,//
+Fantom,L,//
+Fantom,M,/* */
+Felix,L,//
+Fennel,L,;
+Fibonacci,M,(* *)
+Filebench WML,L,#
+Finite State Language,L,//
 Fish shell,L,#
+fish,L,#
+fizz,L,//
+Fjölnir,L,;
+flagship,L,//
+Flow9,L,//
+Flow9,M,/* */
+Flow,L,//
+FLUX,L,//
+FML,L,#
+FML,M,### ###
 Forth,L,\
+Forth,M,( )
 Fortran I to Fortran 77,L,C
 Fortran IV to Fortran 77,L,*
 Fortran,L,!
+Fortress,M,(* *)
+Frege,L,--
+Frege,M,{- -}
+Frink,L,//
+FutureBASIC,L,//
 Gambas,L,'
+Game Maker Language,L,//
+Game Maker Language,M,/* */
 GAMS,L,*
+GAP,L,#
+GCC Machine Description,L,;
+GDScript,L,#
+gentee,L,//
+Gentoo Ebuild,L,#
+Gerbil Scheme,L,;
+Gherkin,L,#
+GNU Octave,L,%
 GNU-bc,L,#
+GNU-bc,M,/* */
 GNU-sed,L,#
 Go,L,//
+Go,M,/* */
+Golo,L,#
+Grammatical Framework,L,--
+GraphQL Schema Definition Language,L,“””
+GraphQL,L,#
 Groff,L,\"
 Groff,L,\#
 Groovy,L,//
+Groovy,M,/* */
+Guile,L,;
+Guix Workflow Language,L,;
+Hack,L,//
+Hack,M,/* */
+HAGGIS,M,'''
+halide,L,//
+HAML,L,-#
+Handel-C,M,/* */
+Handlebars,M,{{! }}
+Handlebars,M,{{!-- --}}
+Harbour,L,//
 Haskell,L,--
+Haskell,M,{- -}
+Haxe,L,//
+Haxe,M,/* */
+HCL,L,//
+HCL,M,/* */
+Heron,L,//
+hilvl,L,//
+HiveQL,L,--
+Hjson,L,#
+Hjson,M,/* */
+Hocon,L,//
+holyc,L,//
+HOPE,L,---
+HTML,M,<!-- -->
+HuJSON,L,//
+HuJSON,M,/* */
+Hy,L,;
 Icon,L,#
+Idris,L,--
+idyll,L,//
+IGOR Pro,L,//
 Inform,L,!
 INI-Datei,L,;
-Io,L,#
+Ini,L,;
 Io,L,//
+Io,L,#
+Io,M,/* */
+Ion,L,//
+Ion,M,/* */
+Isabelle,M,(* *)
+ISETL,L,--
 J,L,NB.
+JADE,L,//
+JAI,L,//
+Jasmin,L,;
+Java Bytecode,L,//
+Java Properties,L,#
 Java,L,//
+Java,M,/* */
 JavaScript,L,//
+JavaScript,M,/* */
+JFlex,M,/* */
+Jison,M,/* */
 JQuery,L,//
+JQuery,M,/* */
+JSL,L,//
+JSL,M,/* */
+JSON,,no comments
+JSON5,L,//
+JSON5,M,/* */
+JSON with Comments,L,//
+JSON with Comments,M,/* */
+Jsonnet,L,//
+Jsonnet,M,/* */
+JSP,M,<%-- --%>
+Judoscript,L,//
 Julia,L,#
+Julia,M,#= =#
+K,L,/
+kai,L,//
+kai,M,/* */
+KaTeX,L,%
+KiXtart,L,;
+Koka,L,//
 Kotlin,L,//
+Kotlin,M,/* */
+KRL,L,//
+lain,L,;
+Language Server Index Format,L,//
+Lasso,L,//
+Lasso,M,/* */
 LaTeX,L,%
+ldpl,L,#
+Less,L,//
+Less,M,/* */
+Lex,L,//
+Lex,M,/* */
+Lexon,L,COMMENT
+LFE,L,;
+Ligo,L,//
+Ligo,M,(* *)
+Linden Scripting Language,L,//
+Linden Scripting Language,M,/* */
 Lisp,L,;
+Lisp,M,#| |#
+lispyscript,L,;
+Lite-C,L,//
+Literate Agda,L,--
+LiveCode,L,--
+LiveScript,L,#
+LiveScript,M,/* */
+LLVM IR,L,;
+Logica,L,#
 Logo,L,;
+Logos,L,//
+LookML,L,#
+LoomScript,L,//
+LoomScript,M,/* */
+LPC,L,//
 Lua,L,--
+Lua,M,--[[ --]]
+Lua,M,--[[ ]]
+Lua,M,--[=…=[ ]=…=]
+Lua,M,--[=[ ]=]
+luau,L,--
+M4,L,#
 M4,L,dnl
+MACRO-10,L,;
 Make,L,#
+Makefile,L,#
 Man page,L,\"
 Man page,L,\#
+Manchester syntax,M,/* */
+manool,L,--
 Maple,L,#
+Maple,M,(* *)
+Maple,M,<# #>
+Mary,L,%
+Mask,L,//
+Mask,M,/* */
+Mathematica,M,(* *)
 MATLAB,L,%
+MATLAB,M,%{ %}
+Maya Embedded Language,L,//
 Mercury,L,%
+Mercury,M,/* */
 merd,L,#
+mgmt,L,#
+MiniD,L,//
+MIPS architecture,L,#
+MIPS architecture,M,### ###
+ML,M,(* *)
+mlir,L,//
+Modelica,L,//
+Modula-2,M,(* *)
+Modula-3,M,(* *)
+Module Management System,L,!
 Monkey,L,'
+MoonScript,L,--
+Mouse,L,~
+MQL5,L,//
+Mu,L,#
 MUMPS,L,;
+mun-lang,L,//
+Mustache,M,{{! }}
+MVEL,L,//
+MySQL,L,--
+MySQL,M,/* */
+NCAR Command Language,L,;
+Nearley,L,#
+neeilang,L,//
+Nemerle,L,//
+NestedText,L,#
+NetLinx,L,//
+NetLinx,M,(* *)
+NetLogo,L,;
+Netpbm grayscale image format,L,#
+Netwide Assembler,L,;
+neut,L,;
+Newspeak,M,(* *)
+Nextflow,M,/* */
+Nginx,L,#
 Nim,L,#
+Nim,M,#[ ]#
+Not eXactly C,L,//
+Not Quite C,L,//
+NS Basic,L,//
+NSIS,L,;
+Nunjucks,M,{# #}
+Nymph,L,//
+Oberon,M,(* *)
 Object Pascal (Delphi),L,//
+Object Pascal,M,(* *)
+Object Pascal,M,{ }
+Objective C++,L,//
+Objective C++,M,/* */
 Objective-C,L,//
+Objective-C,M,/* */
+Objective-J,L,//
+Observable,L,//
+OCaml,M,(* *)
 Occam,L,--
+OCL,L,--
+odin,L,//
+OEM,L,//
+omega,L,--
+omega,M,{- -}
+Opa,M,/* */
+Opal,L,--
+OpenCL,L,//
+OpenCL,M,/* */
+OpenSCAD,L,//
+OpenVera,L,//
+Operational Control Language,L,//
+OptimJ,L,//
+Orc,M,{- -}
+owen-lang,L,//
+OX,L,//
 Oz,L,%
+Oz,M,/* */
+P4,L,//
+P4,M,/* */
+Pan,L,#
+PARI/GP,M,/* */
+Parrot BASIC,L,#
+Parser 3,L,#
+Pascal,L,//
+Pascal,M,(* *)
+Pascal,M,{ }
 PAW,L,*
+PAWN,L,//
+PEG.js,L,//
+PEG.js,M,/* */
 Perl,L,#
-Perl6,L,#
-PHP,L,#
+Perl,M,=begin =cut
+Perl,M,=pod =cut
+Perl 6,L,#
+Perl 6,M,#[ ]
+Perl 6,M,=pod =cut
 PHP,L,//
+PHP,L,#
+PHP,M,/* */
+PIC,L,#
 Pick Basic,L,!
 Pick Basic,L,*
+PicoLisp,L,#
+Pig Latin,L,--
+Pig Latin,M,/* */
 Pike,L,//
+Pike,M,/* */
 PILOT,L,R:
+PL/I,M,/* */
+PL/M,M,/* */
+PL/SQL,L,--
 Pliant,L,#
+Plot,L,;
+Plus,M,/* */
+PLZ/SYS,M,! !
+Pnuts,L,//
+popr,L,__
+Portable Bit Map Format,L,#
+PostCSS,M,/* */
+PostgreSQL,L,--
+PostgreSQL,M,/* */
 PostScript,L,%
+POV-Ray SDL,L,//
+POV-Ray SDL,M,/* */
+PowerBASIC,L,'
+PowerBuilder,L,//
 PowerFlex,L,//
+PowerQuery M,L,//
+PowerQuery M,M,/* */
 PowerShell,L,#
+PowerShell,M,<# #>
+ppm-format,L,#
+Praat Script,L,#
+ProbeVue,M,/* */
+Processing,L,//
+Processing,M,/* */
+Project Mentat,L,;
 Prolog,L,%
+Prolog,M,/* */
+PROMAL,L,;
+Protocol Buffers,L,//
+Protocol Buffers,M,/* */
+PRQL,L,#
+Pug,L,//
+PureBasic,L,;
 PureScript,L,--
+PureScript,M,{- -}
 Python,L,#
+Python,M,''' '''
+Python,M,&quot;&quot;&quot; &quot;&quot;&quot;
+Q#,L,//
+QB64,L,'
+QML,L,//
+QML,M,/* */
+Quaint,L,;;
 R,L,#
+R,M,<# #>
+Racket,L,;
+Racket,M,#| |#
+Ragel,L,#
 Raku,L,#
-Rebol,L,;
+Raku,M,#`( )
+Raku,M,#`[ ]
+Raku,M,#`{ }
+Raku,M,#`{{ }}
+Raku,M,#`< >
+rbs,L,#
+rbscript,L,//
+Rc,L,#
+Reactive Plan Language,L,;
+Reason,L,//
+Reason,M,/* */
+REBOL,L,;
+REBOL,M,comment [ ]
+REBOL,M,comment { }
+Recfiles,L,#
 Red,L,;
+Red,M,{ }
+Refal,L,*
+Reia,L,#
+RELAX NG,L,#
+Ren,L,;
+Ren'Py,L,#
+RenderScript,M,/* */
+Rescript,L,//
+Rexx,M,/* */
+Ring,L,#
+Robots.txt,L,#
+Ron,L,//
+Ron,M,/* */
+rosette-lang,L,;
 Ruby,L,#
+Ruby,M,=begin =end
+Rust MIR,L,//
 Rust,L,//
+Rust,M,/* */
+S-algol,L,!
 S-Lang,L,%
+S-Lang,M,#<TAG> #</TAG>
+S-Lang,M,#if !true #endif
+S-Lang,M,#if false #endif
+S-Lang,M,#iffalse #endif
+S-Lang,M,#ifntrue #endif
+S-Lang,M,#stop EOF
+S-PLUS,L,#
+Sage,L,#
+SAS,L,*
+SAS,M,/* */
 SASS,L,//
+SASS,M,/* */
 Sather,L,--
 Scala,L,//
+Scala,M,/* */
 Scheme,L,;
+Scheme,M,#| |#
 Scilab,L,//
+Script.NET,L,//
+SCSS,L,//
+SCSS,M,/* */
 Seed7,L,#
+Seed7,M,(* *)
+SETL,L,--
 SGML,L,--
+ShaderLab,L,//
+SIL,L,//
+silk,L,//
+SimCode,L,//
+Simple Actor Language System and Architecture,M,/* */
 SIMULA,L,--
+Simula,L,!
+SIMULA,M,comment ;
+Slice,L,//
+Slice,M,/* */
+Slope,L,;
+Smali,L,#
 Small Basic,L,'
+Smalltalk,M,&quot; &quot;
+Smarty,M,(* *)
+SMT,L,;
+SNOBOL,L,*
+Solidity,L,//
+Solidity,M,/* */
+Sophia,L,//
+Sophia,M,/* */
+sora,L,//
+SourcePawn,M,/* */
+Soy,L,//
+Soy,M,/* */
 SPARK,L,--
+SPARQL,L,#
+Spatial,L,//
+Spin,L,'
+spiral,L,//
+spry,L,#
 SQL,L,--
+SQL,M,/* */
+Squirrel,L,//
+SRecode Template,L,;
+Standard ML,L,#
+Standard ML,M,(* *)
+starlark,L,#
+StarOffice Basic,L,'
+Stata,L,//
+Stata,M,/* */
+stella,L,;
+storyscript,L,#
+Strips,L,//
+Structured Query Reporter,L,!
+StruQL,L,//
+SubX,L,#
+SugarSS,L,//
+SuperCollider,L,//
+SVG,M,<!-- -->
+Sweet Expressions,L,;
 Swift,L,//
+Swift,M,/* */
+SystemVerilog,L,//
+SystemVerilog,M,/* */
+taf,L,;
+Taichi,L,//
 Tcl,L,#
+Tcl,M,<# #>
+Tea,L,#
+Terra,L,--
+Tex,L,%
 TeX,L,%
 Texinfo,L,@c
 Texinfo,L,@comment
-TUTOR,L,$$
+ThinBasic,L,'
+tht,L,//
+TLA,L,\*
+TLA,M,(* *)
+TOML,L,#
+Transact-SQL,L,--
+Treelang,L,//
+tremor-query,L,#
+True BASIC,L,!
+Tuple space,L,//
+Turbo Basic,L,'
+Turing,L,%
+turnstile,L,;
 TUTOR,L,*
+TUTOR,L,$$
+Twig,M,{# #}
+Type Language,L,//
+Type Language,M,/* */
+TypeScript,L,//
+TypeScript,M,/* */
+Unicon,L,#
+unison,L,--
 Unix shell,L,#
+UNLAMBDA,L,#
+UrWeb,M,(* *)
+V,L,//
+Vala,L,//
+Vale,L,//
+VBA,L,'
 VBScript,L,'
 Velocity,L,##
+Velocity,M,#* *#
+verifpal,L,//
+Verilog,L,//
+Verilog,M,/* */
+VHDL-AMS,L,--
 VHDL,L,--
+Vigil,L,#
 Vimscript,L,&quot;
 Visual Basic,L,'
+Visual Basic,M,/* */
+Visual Basic .NET,L,'
 Visual Prolog,L,%
+Visual Prolog,M,/* */
+Volt,L,//
+Wart,L,#
+WDL,L,#
+WebIDL,M,/* */
+wescheme,L,;
+Whiley,L,//
+winxed,L,//
+winxed,M,/* */
+wisp,L,;
+Wolfram Language,M,(* *)
+Wren,L,//
+WxBasic,L,'
+x86 Assembly,L,;
+X10,M,/* */
+xBase,L,//
+xBase,M,/* */
+XBase++,L,//
+Xbasic,L,'
+XBLite,L,'
+XML,M,<!-- -->
 Xojo,L,'
 Xojo,L,//
 Xojo,L,rem
+XS,M,/* */
+Xtend,M,/* */
+xxl,L,//
+Yacc,L,//
+Yacc,M,/* */
 YAML,L,#
+YASnippet,L,#
 YCP,L,//
+YCP,M,/* */
+Yedalog,L,#
+Yet Another Scripting Language,L,#
+Yoix,L,//
 Yorick,L,//
-ActionScript,M,/* ~ */
-ALGOL 60,M,comment ~ ;
-ALGOL 68,M,# ~ #
-ALGOL 68,M,co ~ co
-ALGOL 68,M,comment ~ comment
-ALGOL 68,M,¢ ~ ¢
-ALGOL 68,M,£ ~ £
-AppleScript,M,(* ~ *)
-AutoHotkey,M,/* ~ */
-AutoIt,M,#comments-start ~ #comments-end
-AutoIt,M,#cs ~ #ce
-AWK,M,<# ~ #>
-B,M,/* ~ */
-Bash,M,<# ~ #>
-Beta,M,(* ~ *)
-Bourne shell,M,<# ~ #>
-C shell,M,<# ~ #>
-C#,M,/* ~ */
-C++,M,/* ~ */
-C,M,#if 0 ~ #endif
-C,M,/* ~ */
-CHILL,M,/* ~ */
-Clojure,M,(comment ~ )
-Cobra,M,/# ~ #/
-CoffeeScript,M,### ~ ###
-ColdFusion,M,<!--- ~ --->
-CSS,M,/* ~ */
-Curl,M,|# ~ #|
-Curl,M,|TAG# ~ #TAG|
-D,M,/* ~ */
-D,M,/+ ~ +/
-Delphi,M,(* ~ *)
-Delphi,M,{ ~ }
-Dylan,M,/* ~ */
-F#,M,(* ~ *)
-Forth,M,( ~ )
-GNU-bc,M,/* ~ */
-Go,M,/* ~ */
-Groovy,M,/* ~ */
-Handlebars,M,{{! ~ }}
-Handlebars,M,{{!-- ~ --}}
-Haskell,M,{- ~ -}
-HTML,M,<!-- ~ -->
-Io,M,/* ~ */
-Java,M,/* ~ */
-JavaScript,M,/* ~ */
-JQuery,M,/* ~ */
-JSP,M,<%-- ~ --%>
-Julia,M,#= ~ =#
-Kotlin,M,/* ~ */
-Lisp,M,#| ~ |#
-Lua,M,--[=[ ~ ]=]
-Lua,M,--[=…=[ ~ ]=…=]
-Lua,M,--[[ ~ ]]
-Maple,M,(* ~ *)
-Maple,M,<# ~ #>
-Mathematica,M,(* ~ *)
-MATLAB,M,%{ ~ %}
-Mercury,M,/* ~ */
-ML,M,(* ~ *)
-Modula-2,M,(* ~ *)
-Modula-3,M,(* ~ *)
-Mustache,M,{{! ~ }}
-Newspeak,M,(* ~ *)
-Nim,M,#[ ~ ]#
-Nunjucks,M,{# ~ #}
-Oberon,M,(* ~ *)
-Object Pascal,M,(* ~ *)
-Object Pascal,M,{ ~ }
-Objective-C,M,/* ~ */
-OCaml,M,(* ~ *)
-Oz,M,/* ~ */
-Pascal,M,(* ~ *)
-Pascal,M,{ ~ }
-Perl,M,=begin ~ =cut
-Perl,M,=pod ~ =cut
-Perl6,M,#[ ~ ]
-Perl6,M,=pod ~ =cut
-PHP,M,/* ~ */
-Pike,M,/* ~ */
-PL/I,M,/* ~ */
-PLZ/SYS,M,! ~ !
-PowerShell,M,<# ~ #>
-Prolog,M,/* ~ */
-Python,M,&quot;&quot;&quot; ~ &quot;&quot;&quot;
-Python,M,''' ~ '''
-R,M,<# ~ #>
-Racket,M,#| ~ |#
-Raku,M,#`( ~ )
-Raku,M,#`< ~ >
-Raku,M,#`[ ~ ]
-Raku,M,#`{ ~ }
-Raku,M,#`{{ ~ }}
-Rebol,M,comment [ ~ ]
-Rebol,M,comment { ~ }
-Red,M,{ ~ }
-Rexx,M,/* ~ */
-Ruby,M,=begin ~ =end
-Rust,M,/* ~ */
-S-Lang,M,#<TAG> ~ #</TAG>
-S-Lang,M,#if !true ~ #endif
-S-Lang,M,#if false ~ #endif
-S-Lang,M,#iffalse ~ #endif
-S-Lang,M,#ifntrue ~ #endif
-S-Lang,M,#stop ~ EOF
-SAS,M,/* ~ */
-SASS,M,/* ~ */
-Scala,M,/* ~ */
-Scheme,M,#| ~ |#
-Seed7,M,(* ~ *)
-SIMULA,M,comment ~ ;
-Smalltalk,M,&quot; ~ &quot;
-Smarty,M,(* ~ *)
-SQL,M,/* ~ */
-Standard ML,M,(* ~ *)
-Swift,M,/* ~ */
-Tcl,M,<# ~ #>
-Twig,M,{# ~ #}
-Velocity,M,#* ~ *#
-Visual Prolog,M,/* ~ */
-Wolfram Language,M,(* ~ *)
-XML,M,<!-- ~ -->
-YCP,M,/* ~ */
-Yorick,M,/* ~ */
+Yorick,M,/* */
+z80,L,;
+Z,L,--
+Zephir,L,//
+Zephir,M,/* */
+zephyr-asdl,L,--
+Zimpl,L,#
