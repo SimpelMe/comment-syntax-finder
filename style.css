@@ -1,16 +1,10 @@
 body {
-  font-size: 2em;
   overflow-y: scroll;
-}
-
-header {
-  margin-bottom: 1.5em;
 }
 
 main {
     justify-content: center;
     display: flex;
-    font-size: 0.75em;
 }
 
 label, input {
